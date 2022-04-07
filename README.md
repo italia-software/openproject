@@ -1,2 +1,1 @@
-# openproject
- OpenProject is the leading open source project management software. 
+publiccode.yml for https://github.com/opf/openproject
