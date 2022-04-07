@@ -1,0 +1,80 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - project-management
+description:
+  it:
+    apiDocumentation: 'https://www.openproject.org/docs/api/'
+    documentation: 'https://www.openproject.org/docs/user-guide/'
+    features:
+      - project management
+    genericName: openproject
+    longDescription: |
+      OpenProject is a web-based project management software. Its key features
+      are:
+
+
+      - [Project planning and
+      scheduling](https://www.openproject.org/collaboration-software-features/#project-planning)
+
+      - [Product roadmap and release
+      planning](https://www.openproject.org/collaboration-software-features/#product-management)
+
+      - [Task management and team
+      collaboration](https://www.openproject.org/collaboration-software-features/#task-management)
+
+      - [Agile and
+      Scrum](https://www.openproject.org/collaboration-software-features/#agile-scrum)
+
+      - [Time tracking, cost reporting and
+      budgeting](https://www.openproject.org/collaboration-software-features/#time-tracking)
+
+      - [Bug
+      tracking](https://www.openproject.org/collaboration-software-features/#bug-tracking)
+
+      - [Wikis](https://docs.openproject.org/user-guide/wiki/)
+
+      - [Forums](https://docs.openproject.org/user-guide/forums/)
+
+      - [Meeting agendas and meeting
+      minutes](https://docs.openproject.org/user-guide/meetings/)
+    shortDescription: OpenProject is the leading open source project management software.
+developmentStatus: stable
+it:
+  conforme:
+    gdpr: false
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: false
+    modelloInteroperabilita: false
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: false
+landingURL: 'https://www.openproject.org'
+legal:
+  license: GPL-3.0-only
+  mainCopyrightOwner: the OpenProject GmbH
+  repoOwner: the OpenProject GmbH
+localisation:
+  availableLanguages:
+    - en
+    - it
+  localisationReady: false
+maintenance:
+  contacts:
+    - name: the OpenProject Gmbh
+  type: internal
+name: OpenProject
+platforms:
+  - web
+  - linux
+releaseDate: '2022-03-16'
+roadmap: 'https://community.openproject.org/projects/openproject/roadmap'
+softwareType: standalone/web
+softwareVersion: 12.0.10
+url: 'https://github.com/opf/openproject'
