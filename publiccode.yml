@@ -70,6 +70,7 @@ maintenance:
     - name: the OpenProject Gmbh
   type: internal
 name: OpenProject
+logo: https://www.openproject.org/assets/images/press/openproject-logo-white-blue-background-1738aaac.svg
 platforms:
   - web
   - linux
