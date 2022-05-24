@@ -2,7 +2,7 @@
 # metadata file that makes public software easily discoverable.
 # More info at https://github.com/italia/publiccode.yml
 
-publiccodeYmlVersion: '0.2'
+publiccodeYmlVersion: '0.3'
 categories:
   - project-management
 description:
@@ -11,7 +11,6 @@ description:
     documentation: 'https://www.openproject.org/docs/user-guide/'
     features:
       - project management
-    genericName: openproject
     longDescription: |
       OpenProject is a web-based project management software. Its key features
       are:
